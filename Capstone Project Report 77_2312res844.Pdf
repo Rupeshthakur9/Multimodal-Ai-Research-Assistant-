@@ -1,0 +1,68 @@
+https://multimodal-ai-research-assistant.vercel.app/
+
+“This project focuses on building an intelligent system that
+
+can read multiple PDF documents and answer user
+
+questions based on their content. The system uses Natural
+
+Language Processing (NLP) and Large Language Models
+
+(LLMs) to provide accurate and context-based answers
+
+read research papers(PDF) extract figures , tables math
+
+answer question using tech stack
+
+LLM(llama/OpenAI/Gemini), PDF parsing, summarization,
+
+dashboard UI. The main goal of this project is to automate information
+
+retrieval from PDFs and improve the efficiency of
+
+searching and understanding large documents. A full-stack research assistant with a ChatGPT-style
+
+frontend and a FastAPI backend for PDF-grounded
+
+question answering using Retrieval-Augmented Generation
+
+(RAG). https://multimodal-ai-research-assistant.vercel.app/
+Mention the work done by each member :
+
+1. Rupesh Kumar Thakur(ME):
+
+Led the frontend development and assisted in deployment and
+
+hosting-related tasks. I also participated in system testing and
+
+interface improvements during the mid-semester phase. 2. Swetankan Kumar Sinha :
+
+led the backend development and system integration. His
+
+work includes the design and implementation of the RAG
+
+pipeline, FastAPI backend development, vector database
+
+integration using FAISS, and overall system coordination. He
+
+also contributed to frontend-backend integration and technical
+
+documentation. 3. Purushottam Kumar Singh :
+
+Developed an initial prototype based on LangChain for PDF- based question answering, which helped in early-stage idea
+
+validation. He also contributed to the frontend development
+
+and assisted in refining the user interface of the current system. 4. Anurag Kumar Thakur :
+
+contributed to frontend support and testing of the system. He
+
+was involved in reviewing system behavior, identifying issues,
+
+and assisting in improving usability. 5. Shivam Kumar Singh :
+
+He has neither actively contributed to the current
+
+implementation phase of the project nor participated in any
+
+meeting held for discussion of the project
