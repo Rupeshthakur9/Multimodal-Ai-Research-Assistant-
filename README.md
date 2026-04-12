@@ -1,8 +1,9 @@
 
-🔬 Multimodal AI Research Assistant
-An intelligent system engineered to automate knowledge extraction from complex PDF research documents using Retrieval-Augmented Generation (RAG).
+🔬 Multimodal AI Research Assistant:
 
-🚀 Core Features
+"An intelligent system engineered to automate knowledge extraction from complex PDF research documents using Retrieval-Augmented Generation (RAG).
+
+🚀 Core Features:
 PDF Ingestion & Parsing: Extract text, math, and tables from multiple research papers simultaneously.
 
 Semantic Search: High-performance vector indexing using FAISS for accurate context retrieval.
@@ -10,7 +11,6 @@ Semantic Search: High-performance vector indexing using FAISS for accurate conte
 Grounded Answers: Direct responses from the LLM that include source citations to minimize hallucinations.
 
 Modern UI: A ChatGPT-like interface built with Next.js and Tailwind CSS, featuring streaming responses and Markdown rendering.
-
 
 1. Core Framework	FastAPI	
 Asynchronous request handling and automated OpenAPI documentation generation.
